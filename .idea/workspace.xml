@@ -11,7 +11,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="CvOpenClassRoom.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CvOpenClassRoom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> parent of 94304ec... ^^
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,15 +178,23 @@
       <option name="presentableId" value="Default" />
       <updated>1499859026997</updated>
       <workItem from="1499859028122" duration="36000" />
+<<<<<<< HEAD
       <workItem from="1499859164167" duration="190000" />
       <workItem from="1499862409018" duration="55000" />
       <workItem from="1499929546283" duration="596000" />
       <workItem from="1499930833866" duration="41000" />
+=======
+      <workItem from="1499859164167" duration="94000" />
+>>>>>>> parent of 94304ec... ^^
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="918000" />
+=======
+    <option name="totallyTimeSpent" value="130000" />
+>>>>>>> parent of 94304ec... ^^
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1789" height="1092" extended-state="1" />
@@ -218,6 +241,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -243,6 +267,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6912">
           <caret line="256" column="16" lean-forward="false" selection-start-line="256" selection-start-column="16" selection-end-line="256" selection-end-column="16" />
+=======
+>>>>>>> parent of 94304ec... ^^
           <folding />
         </state>
       </provider>
